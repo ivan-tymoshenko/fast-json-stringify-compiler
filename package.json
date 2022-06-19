@@ -28,7 +28,7 @@
     "tsd": "^0.20.0"
   },
   "dependencies": {
-    "fast-json-stringify": "^4.2.0"
+    "fast-json-stringify": "ivan-tymoshenko/fast-json-stringify#use-ajv-for-schema-ref-resolving"
   },
   "tsd": {
     "directory": "test/types"
